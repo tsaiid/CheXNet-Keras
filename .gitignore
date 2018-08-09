@@ -9,3 +9,4 @@ densenet121_weights_tf.h5
 venv
 config.ini
 *.pdf
+.vscode
